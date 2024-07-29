@@ -8,7 +8,7 @@ public class ContinueDemo {
 			if(i==3) {
 				continue;
 			}
-			System.out.println(i);  // 1 2 
+			System.out.println(i);  // 1 2 4 5 
 		}
 
 	}
